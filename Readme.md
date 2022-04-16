@@ -1,6 +1,7 @@
 # Tic Tac Toe
 
-Olá,
+Olá
+
 Esse projeto foi criado para uma atividade da disciplina Processos Decisórios. Com 3 discentes da Unifacs.
 Cada dicente colocou sua própria lógica em seus tábuleiros: 
 
