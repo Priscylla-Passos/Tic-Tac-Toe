@@ -11,4 +11,4 @@ Priscila Passos (EU) Tabuleiro 5 x 5
 
 O tic tac toe começa com escolha de 2 casas bloqueadas em cada dos tabuleiros escolhidos.
 
-Aqui contêm o projeto executável. Porem o código exposto aqui está incompleto
+Aqui contêm o projeto executável também.
